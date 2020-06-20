@@ -23,7 +23,7 @@ A brief outline of our final model deployment:
 
 # Quick Demo: 
 
-Using 202020_FINAL_TEST_SCORING.ipynb:
+Using 202020_FINAL_TEST_SCORING.ipynb and sample dataset in ANGEL-HACK-2020 /SAMPLES:
 
 (a) If want to predict the ETA of **single route**:
 ![1](https://user-images.githubusercontent.com/7208012/85190250-076e1380-b2e9-11ea-8f8f-734fe8ee617e.PNG)

@@ -16,4 +16,4 @@ Route ETA Prediction in Singapore
 
 A brief outline of our final model deployment: 
 
-https://github.com/similang/ANGEL-HACK-2020/issues/1
+![Model Deployment](https://user-images.githubusercontent.com/7208012/85190155-10aab080-b2e8-11ea-8b35-902b0dffb3d5.png)

@@ -1,6 +1,7 @@
 # ANGLEHACK-2020 (GRAB) 
-# TYPO IN TITLE WAS NON-INTENTIONAL (ONLY REALISED AFTER LINK SUBMITTED)
+
 Route ETA Prediction in Singapore
+p/s: typo in the link was non-intentional (only realised after submitting the link)
 
 # The repository consists of: 
 1. Scoring file (using Model Deployed in Azure)  
@@ -20,8 +21,14 @@ A brief outline of our final model deployment:
 ![Model Deployment](https://user-images.githubusercontent.com/7208012/85190155-10aab080-b2e8-11ea-8b35-902b0dffb3d5.png)
 
 
-Quick Demo: 
+# Quick Demo: 
 
 Using 202020_FINAL_TEST_SCORING.ipynb:
 
-If we one to predict the ETA of single route
+If we one to predict the ETA of single route:
+![1](https://user-images.githubusercontent.com/7208012/85190250-076e1380-b2e9-11ea-8f8f-734fe8ee617e.PNG)
+
+
+If we one to predict the ETA of multiple routes in a txt file, we can import the file into Pandas dataframe and run as below:
+![2](https://user-images.githubusercontent.com/7208012/85190268-397f7580-b2e9-11ea-92d8-5d0280fa3b20.PNG)
+

@@ -25,10 +25,10 @@ A brief outline of our final model deployment:
 
 Using 202020_FINAL_TEST_SCORING.ipynb:
 
-(a) If we one to predict the ETA of single route:
+(a) If we one to predict the ETA of **single route**:
 ![1](https://user-images.githubusercontent.com/7208012/85190250-076e1380-b2e9-11ea-8f8f-734fe8ee617e.PNG)
 
 
-(b) If we one to predict the ETA of multiple routes in a txt file, we can import the file into Pandas dataframe and run as below:
+(b) If we one to predict the ETA of **multiple routes** in a txt file  (i.e.: .csv), we can import the file into python pandas dataframe and run as below:
 ![2](https://user-images.githubusercontent.com/7208012/85190268-397f7580-b2e9-11ea-92d8-5d0280fa3b20.PNG)
 

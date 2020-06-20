@@ -13,7 +13,7 @@ Route ETA Prediction in Singapore
    
 3. External Data & Model Files 
 
-4. Other Experiments and Initial Works (Codes are slightly messy).
+4. Other Experiments and Initial Works (Codes are not really organised).
 
 
 A brief outline of our final model deployment: 

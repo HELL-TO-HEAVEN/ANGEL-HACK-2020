@@ -1,7 +1,6 @@
-# ANGLEHACK-2020 (GRAB) 
+# ANGELHACK-2020 (GRAB) 
 
 Route ETA Prediction in Singapore
-p/s: typo in the link was non-intentional (only realised after submitting the link)
 
 # The repository consists of: 
 1. Scoring file (using Model Deployed in Azure)  
@@ -9,7 +8,8 @@ p/s: typo in the link was non-intentional (only realised after submitting the li
    - FINAL_ENDPOINTS_SCORING.py (same as above)
    
 2. Scoring file (local) - in case  Azure Failed 
-   - LOCAL_PREDICTIONS.ipynb
+   - LOCAL_PREDICTIONS.ipynb (import the sample format file as per required and all inputs are available at ANGEL-HACK-2020
+/Additional Data & Models)
    
 3. External Data & Model Files 
 

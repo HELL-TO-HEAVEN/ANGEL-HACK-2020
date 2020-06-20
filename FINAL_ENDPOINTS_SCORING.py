@@ -39,6 +39,20 @@ def score_batch(df):
         pd_all= score_url(df)
         
     return pd_all
+# scoring function for single entry - in dict
+def score_single(input_data_json): 
+# URL for the web service.
+    scoring_uri = 'http://41698060-7459-44a9-97d6-6b4da799ad9a.southeastasia.azurecontainer.io/score'
+    # Convert to JSON string.
+    #input_data_json = df.to_json()
+    # Set the content type.
+    headers = {'Content-Type': 'application/json'}
+    # Make the request and display the response.
+    resp = requests.post(scoring_uri, input_data_json, headers=headers)
+    # print(resp.text)
+    pred = conv_(resp.text)
+    return pred
+
 
 # KINDLY KEY IN THE DIRECTORY
 # Load the data from CSV (in pandas format)

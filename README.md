@@ -13,3 +13,7 @@ Route ETA Prediction in Singapore
 
 4. Other Experiments and Initial Works (Codes are slightly messy).
 
+
+A brief outline of our final model deployment: 
+
+
